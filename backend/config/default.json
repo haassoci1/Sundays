@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://haassoci1:Fn4wpuqFWaMR6idw@sundays.vdb0etu.mongodb.net/?retryWrites=true&w=majority&appName=Sundays",
+    "jwtSecret": "your_jwt_secret"
+  }
+  
